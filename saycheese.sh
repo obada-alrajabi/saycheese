@@ -18,7 +18,10 @@ printf "\e[1;92m              |___/ \e[0m                                 \n"
 printf " \e[1;77m v1.0 coded by github.com/thelinuxchoice/saycheese\e[0m \n"
 
 printf "\n"
-
+# cd saycheese
+# ./saycheese.sh
+01]serveo.net
+02]ngrok
 
 }
 
